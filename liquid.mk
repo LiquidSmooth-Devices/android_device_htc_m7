@@ -20,6 +20,9 @@ $(call inherit-product, device/htc/m7/full_m7.mk)
 # phone
 $(call inherit-product, vendor/liquid/config/common_phone.mk)
 
+# telephony
+$(call inherit-product, vendor/liquid/config/common_gsm.mk)
+
 # Enhanced NFC
 $(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
