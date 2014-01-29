@@ -26,7 +26,7 @@ $(call inherit-product, vendor/liquid/config/common_gsm.mk)
 # Enhanced NFC
 $(call inherit-product, vendor/liquid/config/nfc_enhanced.mk)
 
-PRODUCT_BUILD_PROP_OVERRIDES += BUILD_ID=KRT16S.H5 BUILD_FINGERPRINT="htc/m7_google/m7:4.4/KRT16S.H5/280886:user/release-keys" PRIVATE_BUILD_DESC="3.58.1700.5 CL280886 release-keys"
+PRODUCT_BUILD_PROP_OVERRIDES += BUILD_ID=KOT49H.H1 BUILD_FINGERPRINT="htc/m7_google/m7:4.4.2/KOT49H.H1/288144:user/release-keys" PRIVATE_BUILD_DESC="3.62.1700.1 CL288144 release-keys"
 
 PRODUCT_NAME := liquid_m7
 PRODUCT_DEVICE := m7
