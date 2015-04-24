@@ -13,9 +13,9 @@
   },
   {
     "remote": "gh",
-    "repository": "cannondalev2000/kernel_htc_m7",
-    "target_path": "kernel/htc/m7",
-    "revision": "lollipop"
+    "repository": "CyanogenMod/android_kernel_htc_msm8960",
+    "target_path": "kernel/htc/msm8960",
+    "revision": "cm-12.1"
   },
   {
     "remote": "gh",
